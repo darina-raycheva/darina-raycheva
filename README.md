@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 👋 Hi, I'm Darina Raycheva
 
 ### 🤖 AI Automation & Digital Solutions Specialist
@@ -7,7 +7,6 @@
 
 *Combining digital strategy, business experience and AI to build
 practical, user-focused solutions.*
-:::
 
 ------------------------------------------------------------------------
 
