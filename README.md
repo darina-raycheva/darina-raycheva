@@ -139,15 +139,6 @@ I am particularly interested in solutions that:
 
 ------------------------------------------------------------------------
 
-## 📫 Let's Connect
-
-```{=html}
-<p align="left">
-```
-`<a href="https://www.linkedin.com/in/darina-raycheva/">`
-
-------------------------------------------------------------------------
-
 ### 💡 From Digital Strategy to Intelligent Automation
 
 **Business experience × Digital Marketing × AI Automation**
