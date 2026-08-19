@@ -144,12 +144,8 @@ I am particularly interested in solutions that:
 ```{=html}
 <p align="left">
 ```
-`<a href="https://www.linkedin.com/in/darina-raycheva/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Darina%20Raycheva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
+`<a href="https://www.linkedin.com/in/darina-raycheva/">`
+
 ------------------------------------------------------------------------
 
 ### 💡 From Digital Strategy to Intelligent Automation
