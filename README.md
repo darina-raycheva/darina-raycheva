@@ -1,149 +1,178 @@
-Hi, I'm Darina Raycheva 👋
+::: {align="center"}
 
-AI Automation & Digital Solutions Specialist | Digital Marketing Expert
+👋 Hi, I'm Darina Raycheva
 
-I am a digital marketing professional with extensive experience in
-building and growing digital brands, managing online presence, SEO/SEM,
-performance marketing, content strategy, and data-driven optimization.
+🤖 AI Automation & Digital Solutions Specialist
 
-Today, I am expanding that experience into AI Automation, AI-powered
-solutions, and Vibe Coding, with a strong focus on using artificial
-intelligence to improve workflows, digital processes, marketing
-operations, and user experiences.
+Digital Marketing Expert · AI-Powered Solutions · Vibe Coding
 
-My background combines marketing strategy, entrepreneurship, product
-thinking, analytics, and technology --- allowing me to approach AI not
-only from a technical perspective, but also from a practical business
-point of view.
+Combining digital strategy, business experience and AI to build
+practical, user-focused solutions.
+:::
+
+👩‍💻 About Me
+
+I am a Digital Marketing professional with extensive experience in
+building and growing digital brands, managing online presence,
+SEO/SEM, performance marketing, content strategy, e-commerce, and
+data-driven optimization.
+
+Today, I combine that background with AI Automation, AI-powered
+solutions, and Vibe Coding, focusing on how artificial intelligence
+can improve workflows, digital processes, marketing operations, and user
+experiences.
+
+My experience brings together marketing strategy, entrepreneurship,
+product thinking, analytics, and technology --- allowing me to
+approach AI solutions from both a business and practical
+perspective.
 
 🤖 AI & Automation Focus
 
-AI Automation & workflow optimization
+⚡ AI Automation & workflow optimization
 
-AI-powered business and marketing solutions
+🧠 AI-powered business and marketing solutions
 
-Vibe Coding & AI-assisted development
+💻 Vibe Coding & AI-assisted development
 
-Prompt engineering and structured AI workflows
+✨ Prompt Engineering & structured AI workflows
 
-Digital process optimization
+🔄 Digital process optimization
 
-AI tools for content, marketing, and productivity
+📈 AI tools for marketing, content & productivity
 
-Building practical, user-focused digital solutions
+🚀 Building practical, user-focused digital solutions
 
-💼 Professional Background
+🛠️ Tech & AI Stack
 
-Digital Marketing Specialist --- Bio Market BG
+<p align="left">
 
-2021 -- 2024
+<img src="https://img.shields.io/badge/AI-Automation-blue?style=for-the-badge" alt="AI Automation"/>{=html}
+<img src="https://img.shields.io/badge/Prompt-Engineering-blueviolet?style=for-the-badge" alt="Prompt Engineering"/>{=html}
+<img src="https://img.shields.io/badge/Vibe-Coding-purple?style=for-the-badge" alt="Vibe Coding"/>{=html}
+<img src="https://img.shields.io/badge/OpenAI-AI%20Solutions-412991?style=for-the-badge" alt="OpenAI"/>{=html}
 
-Worked across digital strategy, social media, content, SEO, audience
-research, brand development, and growth initiatives. Collaborated with
-agencies, marketing teams, and external partners while developing and
-optimizing the brand's digital presence.
+</p>
 
-Digital Marketing Expert --- HealthStore Bulgaria
+<p align="left">
 
-2017 -- 2024
+<img src="https://img.shields.io/badge/HTML5-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>{=html}
+<img src="https://img.shields.io/badge/CSS3-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>{=html}
+<img src="https://img.shields.io/badge/SEO-SEM-success?style=flat-square" alt="SEO SEM"/>{=html}
+<img src="https://img.shields.io/badge/Digital-Marketing-orange?style=flat-square" alt="Digital Marketing"/>{=html}
 
-Managed and optimized digital marketing activities across web, SEO/SEM,
-email, social media, and paid advertising. Worked with campaign
-performance, ROI and KPIs, conversion testing, landing-page
-optimization, keyword research, content strategy, and organic SEO.
+</p>
 
-Founder --- FancyFace.bg
+💼 Professional Experience
 
-2015 -- 2021
+🛍️ Bio Market BG
 
-Founded and developed an e-commerce business focused on cosmetics and
-accessories, bringing international beauty brands and products to the
-Bulgarian market.
+Digital Marketing Specialist · 2021 -- 2024
 
-My entrepreneurial experience gave me hands-on understanding of how
+Digital strategy, social media, content, SEO, audience research, brand
+development, and growth initiatives. Collaboration with agencies,
+marketing teams, and external partners to develop and optimize the
+brand's digital presence.
+
+🌿 HealthStore Bulgaria
+
+Digital Marketing Expert · 2017 -- 2024
+
+Managed and optimized digital marketing activities across web,
+SEO/SEM, email, social media, and paid advertising, including:
+
+📊 Campaign performance, ROI & KPI analysis
+
+🧪 Conversion testing and optimization
+
+🔎 Keyword research & organic SEO
+
+🖥️ Landing-page and user-experience optimization
+
+✍️ Content and digital strategy
+
+💄 FancyFace.bg
+
+Founder · 2015 -- 2021
+
+Founded and developed an e-commerce business focused on cosmetics
+and accessories, introducing international beauty brands and products to
+the Bulgarian market.
+
+This entrepreneurial experience provided hands-on understanding of how
 marketing, product, customer experience, operations, and technology
 work together in a real business environment.
 
 🧠 Core Skills
 
-AI Automation
+AI & Technology                     Marketing & Business
 
-AI-powered Solutions
+🤖 AI Automation                📈 Digital Marketing Strategy
 
-Digital Marketing Strategy
+🧠 AI-powered Solutions         📦 Product Marketing
 
-Product Marketing
+✨ Prompt Engineering           🧩 Product Management
 
-Product Management
+💻 Vibe Coding                  📊 Data-driven Decision Making
 
-Data-driven Decision Making
+🔄 AI Workflows                 🔎 SEO & SEM
 
-SEO & SEM
-
-Content Strategy
-
-Social Media Marketing
-
-Performance Analysis
-
-Conversion Optimization
-
-E-commerce
-
-Business & Growth Strategy
-
-🛠️ AI & Tech
-
-I am actively building my portfolio around AI-assisted development and
-automation, including:
-
-AI Automation · Vibe Coding · Prompt Engineering · AI Workflows
-· OpenAI · HTML · CSS
-
-This section will continue to grow as new projects and certifications
-are added.
+⚙️ Digital Process Optimization 🛒 E-commerce & Growth Strategy
 
 🚀 What I'm Building
 
 My current focus is on projects that combine AI, automation, digital
 products, and real business use cases.
 
+💡 My goal: Build AI-powered solutions that solve practical
+business problems and make digital workflows smarter and more
+efficient.
+
 I am particularly interested in solutions that:
 
-automate repetitive workflows;
+⚡ Automate repetitive workflows
 
-make digital processes more efficient;
+📊 Improve digital and business processes
 
-use AI to improve marketing and business operations;
+🤖 Use AI to enhance marketing operations
 
-transform ideas into functional digital products;
+💡 Transform ideas into functional digital products
 
-create better and more personalized user experiences.
+👥 Create better and more personalized user experiences
 
 🎓 Education
 
-Master's Degree --- International Alternative Tourism
 New Bulgarian University
+🎓 Master's Degree --- International Alternative Tourism
+Tourism and Travel Services Management
 
-Bachelor's Degree --- Applied Linguistics (German & Russian)
 Veliko Tarnovo University
+🎓 Bachelor's Degree --- Applied Linguistics
+German & Russian Languages
 
 🌍 Languages
 
-Bulgarian --- Native / Bilingual
-
-English --- Full Professional
-
-Russian --- Limited Working
-
-German --- Limited Working
+🇧🇬 Bulgarian --- Native / Bilingual
+🇬🇧 English --- Full Professional
+🇷🇺 Russian --- Limited Working
+🇩🇪 German --- Limited Working
 
 📫 Let's Connect
 
-LinkedIn: https://www.linkedin.com/in/darina-raycheva/
+<p align="left">
 
-💡 From digital strategy to intelligent automation.
+<a href="https://www.linkedin.com/in/darina-raycheva/">{=html}
+<img src="https://img.shields.io/badge/LinkedIn-Darina%20Raycheva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>{=html}
+</a>{=html}
 
-I combine years of digital marketing and entrepreneurial experience with
-AI and automation to build practical solutions that connect business
-needs, technology, and people.
+</p>
+
+::: {align="center"}
+
+💡 From Digital Strategy to Intelligent Automation
+
+Business experience × Digital Marketing × AI Automation
+
+Building practical solutions that connect business needs, technology,
+and people.
+:::
