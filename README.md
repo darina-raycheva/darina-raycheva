@@ -81,7 +81,6 @@ work together in a real business environment.
 
 ## 🧠 Core Skills
 
-  -----------------------------------------------------------------------
   AI & Technology                     Marketing & Business
   ----------------------------------- -----------------------------------
   🤖 **AI Automation**                📈 **Digital Marketing Strategy**
@@ -97,7 +96,6 @@ work together in a real business environment.
   ⚙️ **Digital Process Optimization** 🛒 **E-commerce & Growth Strategy**
   -----------------------------------------------------------------------
 
-------------------------------------------------------------------------
 
 ## 🚀 What I'm Building
 
