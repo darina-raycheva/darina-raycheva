@@ -41,31 +41,6 @@ perspective**.
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tech & AI Stack
-
-```{=html}
-<p align="left">
-```
-`<img src="https://img.shields.io/badge/AI-Automation-blue?style=for-the-badge" alt="AI Automation"/>`{=html}
-`<img src="https://img.shields.io/badge/Prompt-Engineering-blueviolet?style=for-the-badge" alt="Prompt Engineering"/>`{=html}
-`<img src="https://img.shields.io/badge/Vibe-Coding-purple?style=for-the-badge" alt="Vibe Coding"/>`{=html}
-`<img src="https://img.shields.io/badge/OpenAI-AI%20Solutions-412991?style=for-the-badge" alt="OpenAI"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="left">
-```
-`<img src="https://img.shields.io/badge/HTML5-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>`{=html}
-`<img src="https://img.shields.io/badge/CSS3-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>`{=html}
-`<img src="https://img.shields.io/badge/SEO-SEM-success?style=flat-square" alt="SEO SEM"/>`{=html}
-`<img src="https://img.shields.io/badge/Digital-Marketing-orange?style=flat-square" alt="Digital Marketing"/>`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
 ## 💼 Professional Experience
 
 ### 🛍️ Bio Market BG
@@ -175,10 +150,8 @@ I am particularly interested in solutions that:
 ```{=html}
 </p>
 ```
-
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ### 💡 From Digital Strategy to Intelligent Automation
 
 **Business experience × Digital Marketing × AI Automation**
